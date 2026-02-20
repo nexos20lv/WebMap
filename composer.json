@@ -1,0 +1,24 @@
+{
+    "name": "nexaria/webmap",
+    "description": "Plugin Azuriom pour intégrer une carte dynamique (WebMap, BlueMap, Pl3xMap).",
+    "keywords": [
+        "azuriom",
+        "minecraft",
+        "webmap",
+        "map"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "NeXoS_20",
+            "homepage": "https://nexaria.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Azuriom\\Plugin\\WebMap\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

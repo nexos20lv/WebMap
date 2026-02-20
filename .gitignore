@@ -1,0 +1,11 @@
+/vendor/
+node_modules/
+npm-debug.log
+yarn.error.log
+yarn-debug.log*
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
