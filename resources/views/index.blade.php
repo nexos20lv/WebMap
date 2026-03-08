@@ -42,12 +42,12 @@
                     <div class="map-icon">🗺️</div>
                     <h2 class="mb-3">{{ trans('webmap::messages.title') }}</h2>
                     <p class="text-muted mb-4">
-                        Aucune URL de carte dynamique n'est configurée.<br>
-                        Rendez-vous dans l'espace administrateur pour configurer l'URL.
+                        {{ trans('webmap::messages.no_url_configured') }}<br>
+                        {{ trans('webmap::messages.configure_from_admin') }}
                     </p>
                     @can('admin.settings')
                         <a href="{{ route('webmap.admin.settings') }}" class="btn btn-primary">
-                            <i class="bi bi-gear me-2"></i> Configurer
+                            <i class="bi bi-gear me-2"></i> {{ trans('webmap::messages.configure') }}
                         </a>
                     @endcan
                 </div>

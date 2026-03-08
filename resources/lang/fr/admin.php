@@ -2,7 +2,7 @@
 
 return [
     'nav' => [
-        'title' => 'WebMap',
+        'title' => 'Parametres WebMap',
     ],
     'settings' => [
         'title' => 'Configuration WebMap',

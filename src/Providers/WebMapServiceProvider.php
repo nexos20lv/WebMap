@@ -35,7 +35,7 @@ class WebMapServiceProvider extends BasePluginServiceProvider
     protected function routeDescriptions(): array
     {
         return [
-            'webmap.index' => 'WebMap (Carte Dynamique)',
+            'webmap.index' => trans('webmap::messages.title'),
         ];
     }
 
@@ -48,7 +48,7 @@ class WebMapServiceProvider extends BasePluginServiceProvider
     {
         return [
             'webmap' => [
-                'name' => 'Configuration WebMap',
+                'name' => trans('webmap::admin.nav.title'),
                 'icon' => 'bi bi-map',
                 'route' => 'webmap.admin.settings',
                 'permission' => 'admin.settings',
@@ -66,7 +66,7 @@ class WebMapServiceProvider extends BasePluginServiceProvider
         return [
             'webmap' => [
                 'route' => 'webmap.index',
-                'name' => 'Afficher la WebMap',
+                'name' => trans('webmap::messages.nav_label'),
                 'icon' => 'bi bi-map',
             ],
         ];

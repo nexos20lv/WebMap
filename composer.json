@@ -1,11 +1,11 @@
 {
     "name": "nexaria/webmap",
-    "description": "Plugin Azuriom pour intégrer une carte dynamique (WebMap, BlueMap, Pl3xMap).",
+    "description": "Azuriom plugin to integrate a dynamic map (WebMap, BlueMap, Pl3xMap, Dynmap).",
     "keywords": [
         "azuriom",
-        "minecraft",
         "webmap",
-        "map"
+        "map",
+        "dynamic-map"
     ],
     "license": "MIT",
     "authors": [

@@ -2,7 +2,7 @@
     "id": "webmap",
     "name": "WebMap",
     "version": "1.0.0",
-    "description": "Intègre une carte dynamique (WebMap, BlueMap, Pl3xMap) directement sur votre site Azuriom.",
+    "description": "Integrate a dynamic map (WebMap, BlueMap, Pl3xMap, Dynmap) directly into your Azuriom website.",
     "url": "https://nexaria.fr",
     "authors": [
         "NeXoS_20"

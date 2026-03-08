@@ -1,29 +1,37 @@
-# WebMap - Plugin Azuriom
+# WebMap - Azuriom Plugin
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Azuriom API](https://img.shields.io/badge/Azuriom-1.2.0-red.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-Un plugin pour le CMS [Azuriom](https://azuriom.com) permettant d'intégrer facilement une carte dynamique (WebMap, BlueMap, Pl3xMap, Dynmap) directement sur votre site web.
+A plugin for [Azuriom](https://azuriom.com) that lets you easily embed a dynamic map (WebMap, BlueMap, Pl3xMap, Dynmap) directly into your website.
 
-## 🚀 Fonctionnalités
+## Features
 
-* Intégration transparente de votre carte Minecraft sur le site.
-* Compatible avec les principaux plugins de map (Dynmap, BlueMap, Pl3xMap, etc.).
-* Configuration facile depuis le panel d'administration d'Azuriom.
+* Seamless integration of your Minecraft map into your website.
+* Compatible with major map plugins (Dynmap, BlueMap, Pl3xMap, etc.).
+* Easy configuration from the Azuriom admin panel.
+* Designed to work with all Azuriom games because it embeds a remote map URL.
 
-## 📥 Installation
+## Installation
 
-1. Installez le plugin depuis votre panel administrateur Azuriom.
-2. Rendez-vous dans l'onglet "WebMap > Paramètres".
-3. Entrez le lien vers votre carte (exemple : `http://votre-ip:8123/`).
-4. Cliquez sur Sauvegarder. C'est prêt ! Un nouvel onglet "Carte" sera automatiquement ajouté à votre site.
+1. Install the plugin from your Azuriom admin panel.
+2. Go to `WebMap > Settings`.
+3. Enter your map URL (example: `http://your-ip:8123/`).
+4. Click Save. A new `Map` entry will be available on your website.
 
-## 🔗 Liens
+## Links
 
-* [Site Web de NeXoS_20](https://btmpierre.me/)
+* [NeXoS_20 Website](https://btmpierre.me/)
 * [Azuriom](https://azuriom.com)
 
-## 📄 Licence
+## Azuriom Market Compliance
 
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+* Includes English translations (`resources/lang/en`) and supports additional locales.
+* All plugin metadata and non-translation content are written in English.
+* Works across Azuriom-supported games by embedding a configurable external map URL.
+* Does not use code obfuscation or external license verification.
+
+## License
+
+This project is licensed under the MIT license. See [LICENSE](LICENSE) for details.

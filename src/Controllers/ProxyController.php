@@ -86,8 +86,8 @@ class ProxyController extends Controller
         } catch (\Exception $e) {
             return response(
                 '<div style="font-family:sans-serif;padding:40px;text-align:center;">'
-                . '<h2>🗺️ Carte dynamique indisponible</h2>'
-                . '<p>Impossible de se connecter à : <code>' . e($baseUrl) . '</code></p>'
+                . '<h2>🗺️ Dynamic map unavailable</h2>'
+                . '<p>Unable to connect to: <code>' . e($baseUrl) . '</code></p>'
                 . '<p style="color:#888">' . e($e->getMessage()) . '</p></div>',
                 503,
                 ['Content-Type' => 'text/html']
