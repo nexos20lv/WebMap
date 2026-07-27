@@ -1,37 +1,51 @@
-# WebMap - Azuriom Plugin
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=200&section=header&text=WebMap%20%7C%20Azuriom%20Plugin&fontSize=50&fontAlignY=40&animation=twinkling&desc=Minecraft%20Dynamic%20Map%20Integration&descAlignY=60&descAlign=50" alt="WebMap Banner" />
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![Azuriom API](https://img.shields.io/badge/Azuriom-1.2.0-red.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+  <p align="center">
+    <img src="https://img.shields.io/badge/Plugin-Azuriom_v1.2.0+-red.svg?style=for-the-badge" alt="Azuriom Version">
+    <img src="https://img.shields.io/badge/Language-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/Supports-Dynmap%20%7C%20BlueMap%20%7C%20Pl3xMap-blue?style=for-the-badge" alt="Map Compatibility">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License">
+  </p>
 
-A plugin for [Azuriom](https://azuriom.com) that lets you easily embed a dynamic map (WebMap, BlueMap, Pl3xMap, Dynmap) directly into your website.
+  <p align="center">
+    <b>A seamlessly integrated plugin for Azuriom CMS that embeds your Minecraft dynamic server map directly into your website.</b>
+  </p>
+</div>
 
-## Features
+---
 
-* Seamless integration of your Minecraft map into your website.
-* Compatible with major map plugins (Dynmap, BlueMap, Pl3xMap, etc.).
-* Easy configuration from the Azuriom admin panel.
-* Designed to work with all Azuriom games because it embeds a remote map URL.
+## 📖 Overview
 
-## Installation
+**WebMap** is an official plugin for [Azuriom CMS](https://azuriom.com) that allows you to easily display your interactive Minecraft server map (BlueMap, Dynmap, Pl3xMap, Squaremap, etc.) directly on a dedicated page of your website.
 
-1. Install the plugin from your Azuriom admin panel.
-2. Go to `WebMap > Settings`.
-3. Enter your map URL (example: `http://your-ip:8123/`).
-4. Click Save. A new `Map` entry will be available on your website.
+---
 
-## Links
+## ✨ Features
 
-* [NeXoS_20 Website](https://btmpierre.me/)
-* [Azuriom](https://azuriom.com)
+- 🗺️ **Universal Compatibility:** Works with Dynmap, BlueMap, Pl3xMap, Squaremap, or any web-accessible map URL.
+- ⚙️ **Simple Admin Panel Config:** Set your map URL in seconds via `WebMap > Settings` in Azuriom Admin.
+- 📱 **Fully Responsive:** Embedded iframe adapts automatically to desktop, tablet, and mobile screens.
+- 🌐 **Market Compliant:** Includes English (`en`) and French (`fr`) translations, fully compliant with Azuriom Marketplace rules.
 
-## Azuriom Market Compliance
+---
 
-* Includes English translations (`resources/lang/en`) and supports additional locales.
-* All plugin metadata and non-translation content are written in English.
-* Works across Azuriom-supported games by embedding a configurable external map URL.
-* Does not use code obfuscation or external license verification.
+## 📦 Installation
 
-## License
+1. Upload the plugin folder or install it directly from your **Azuriom Admin Dashboard**.
+2. Go to **Admin > WebMap > Settings**.
+3. Enter your external map URL (e.g. `http://play.yourserver.com:8123/`).
+4. Click **Save**. A new `Map` tab will instantly appear in your website navigation!
 
-This project is licensed under the MIT license. See [LICENSE](LICENSE) for details.
+---
+
+## 🔗 Useful Links
+
+- 🌐 **[Developer Website](https://btmpierre.me/)**
+- 🛒 **[Azuriom CMS](https://azuriom.com)**
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
