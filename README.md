@@ -1,5 +1,5 @@
 <div align="center">
-  ![WebMap Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=200&section=header&text=WebMap%20%7C%20Azuriom%20Plugin&fontSize=50&fontAlignY=40&animation=twinkling&desc=Minecraft%20Dynamic%20Map%20Integration&descAlignY=60&descAlign=50&fontColor=ffffff)
+  ![WebMap Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=200&section=header&text=WebMap%20%7C%20Azuriom%20Plugin&fontSize=50&fontAlignY=40&animation=twinkling&desc=Minecraft%20Dynamic%20Map%20Integration&descAlignY=60&descAlign=50)
 
   <p align="center">
     ![Azuriom Version](https://img.shields.io/badge/Plugin-Azuriom_v1.2.0+-red.svg?style=for-the-badge)
