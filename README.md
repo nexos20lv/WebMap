@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=200&section=header&text=WebMap%20%7C%20Azuriom%20Plugin&fontSize=50&fontAlignY=40&animation=twinkling&desc=Minecraft%20Dynamic%20Map%20Integration&descAlignY=60&descAlign=50" alt="WebMap Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7b2cbf,100:c77dff&amp;height=200&amp;section=header&amp;text=WebMap%20%7C%20Azuriom%20Plugin&amp;fontSize=50&amp;fontAlignY=40&amp;animation=twinkling&amp;desc=Minecraft%20Dynamic%20Map%20Integration&amp;descAlignY=60&amp;descAlign=50" alt="WebMap Banner" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/Plugin-Azuriom_v1.2.0+-red.svg?style=for-the-badge" alt="Azuriom Version">
-    <img src="https://img.shields.io/badge/Language-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/Language-PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/Supports-Dynmap%20%7C%20BlueMap%20%7C%20Pl3xMap-blue?style=for-the-badge" alt="Map Compatibility">
     <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License">
   </p>
